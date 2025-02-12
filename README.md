@@ -41,8 +41,8 @@ Waste misclassification is a major environmental issue, leading to inefficient r
 ## 📥 Installation & Usage
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-github-username/CNN-Waste-Management.git
-   cd CNN-Waste-Management
+   git clone https://github.com/elamaran25/CNN-model-to-classify-images-of-plastic-waste-into-different-categories.git
+   cd CNN-model-to-classify-images-of-plastic-waste-into-different-categories
    ```
 
 2. **Open Google Colab & Upload Notebook**  
