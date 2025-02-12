@@ -2,7 +2,7 @@
 
 ### **README.md**  
 
-```md
+
 # 🌍 Waste Management Classification using CNN
 
 This project is a **Convolutional Neural Network (CNN)-based Waste Classification System** that categorizes waste into **Recyclable** and **Organic Waste**. It was developed as part of my **AICTE Internship** in collaboration with **Edunet Foundation and Shell**.
