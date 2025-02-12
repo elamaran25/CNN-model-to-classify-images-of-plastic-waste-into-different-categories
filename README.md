@@ -1,8 +1,4 @@
 
-
-### **README.md**  
-
-
 # 🌍 Waste Management Classification using CNN
 
 This project is a **Convolutional Neural Network (CNN)-based Waste Classification System** that categorizes waste into **Recyclable** and **Organic Waste**. It was developed as part of my **AICTE Internship** in collaboration with **Edunet Foundation and Shell**.
@@ -82,7 +78,7 @@ This project is for educational purposes. Feel free to modify and improve it.
 
 ### 📩 Connect with Me
 If you have any questions or suggestions, feel free to connect! 🚀  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/elamaran25/)  
 
 ```
 
@@ -93,5 +89,5 @@ If you have any questions or suggestions, feel free to connect! 🚀
 ✅ **Installation & usage updated** for Google Colab workflow.  
 ✅ **Colab-specific dependencies** (`!pip install ...`) added.  
 
----
+
 
