@@ -91,7 +91,7 @@ This project is licensed under the **MIT License**, allowing anyone to use and m
 
 ### 📩 Connect with Me
 For any questions or suggestions, feel free to connect:  
-🔗 **LinkedIn**: [elamaran25](https://www.linkedin.com/in/elamaran25/) 
+🔗 **LinkedIn**: [Elamaran25](https://www.linkedin.com/in/elamaran25/) 
 
 
 
